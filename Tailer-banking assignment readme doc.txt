@@ -1,3 +1,6 @@
+
+For UI: http://localhost:8080/index.html
+
 1) Design a proper database to support the user stories.
 
 CREATE TABLE Employees (
