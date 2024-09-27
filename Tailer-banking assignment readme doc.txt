@@ -68,7 +68,6 @@ Response:
     "new_credit": 4000.00
 }
 
-3) Design a simple frontend to view employee credit balance.
 Code has been designed for BankEnd and used technologies Java with SpringBoot framework.
 
   
